@@ -25,7 +25,7 @@ La vidéo ci-contre montre le fonctionnement du projet :
 
 <div align="center">
 
-[Voir la vidéo](https://github.com/user-attachments/assets/cd37b389-c84b-4193-845b-0598de4b403a)
+[Voir la vidéo](https://github.com/user-attachments/assets/fb2701aa-ef92-413b-a630-2f0bf1cc8fe5)
 
 
 </div>
